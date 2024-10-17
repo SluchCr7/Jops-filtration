@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg_login{
+    background-image: url(../public/wal2.jpg);
+}
